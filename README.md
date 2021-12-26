@@ -4,3 +4,5 @@
 
 Designed for paper phenol universal boards (50 mm x 70 mm), the cheapest
 single-sided universal boards you can find in AliExpress.
+
+![paper-phenol-50x70](img/paper-phenol-50x70.png)
